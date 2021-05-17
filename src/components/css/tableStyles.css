@@ -1,0 +1,8 @@
+.RowHover{
+    transition:.2s;
+    text-decoration: none;
+}
+
+.RowHover:hover{
+    background-color:rgb(224, 237, 255);
+}

@@ -1,0 +1,82 @@
+.ApptBackground{
+    padding:1em;
+}
+.RightSpacing{
+    text-align:right;
+    padding-bottom: 1em;
+}
+.CreateButton{
+    background-color:#5295f1;
+    color:white;
+    text-decoration: none;
+    text-transform:none;
+    transition: .2s;
+}
+.CreateButton:hover{
+    background-color:#86d3ff;    
+    text-decoration: none;
+    text-transform:none;
+}
+.TextField{
+    color:rgb(79, 119, 228);
+}
+.FormBackground1{
+    text-align: center;
+    padding:2em;
+}
+.FormBackground2{
+    background-color: white;
+    border: solid 1pt rgb(79, 119, 228);
+    padding:5em;
+}
+.FormTitle{
+    font-size: 2em;
+    color:rgb(79, 119, 228);
+    font:arial;
+
+}
+.label{
+    width:470px;
+    height:42px;
+    text-align: left;
+}
+.label2{
+    width:200px;
+    text-align:right;
+}
+.formatting{
+    width:45%;
+    float:left;
+    padding:1em;
+}
+.formatting{
+    width:45%;
+    float:right;
+    padding:1em;
+}
+.date{
+    padding-top:1em;
+}
+.RightFormSpacing{
+    text-align:right;
+    float:right;
+    padding-bottom: 1em;
+}
+.LeftFormSpacing{
+    text-align:left;
+    float:left;
+    padding-bottom: 1em;
+
+}
+.TaskFormSpacing{
+    text-align:right;
+    float:right;
+    padding-bottom: 1em;
+    padding-top: 1em;
+
+}
+.FormBody{
+    font-size: 1.2em;
+    color:rgb(79, 119, 228);
+    font:arial;
+}
