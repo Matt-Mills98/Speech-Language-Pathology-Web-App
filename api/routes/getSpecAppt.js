@@ -36,24 +36,5 @@ pool.getConnection(function (err, connection) {
     });
   });
 
-/*
-pool.getConnection(function(err, results, next) {
-  if (err) throw err;
-  console.log("Connected!");
-  router.post('', function(req, res, next) {
-  var PID = req.body.PID;
-  var FirstName = req.body.FirstName;
-  var LastName = req.body.LastName;
-  var DOB = req.body.DOB;
-    pool.query("INSERT INTO patients (PID, FirstName, LastName, DOB) VALUES ('?','?', '?', '?','?')"),[PID,FirstName,LastName,DOB];
-    if (err) throw err;
-    connection.release();
-    console.log("1 record inserted");
-    
-    });
-  });
-  
-*/
-
 
 module.exports = router;
