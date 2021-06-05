@@ -1,5 +1,5 @@
 # Speech Language Pathology (SLP) Web App, Version 1.0.0
-## Purpose:
+## Justification
 #### *Automate the Process of Recording Information During SLP Appointments.* 
 ##### SLPs see upwards of 10 patients per day. Of these patients, approx. 60-70% are young and/or learning disabled. During any given appointment, an SLP is tasked with recording information in a very timely matter, as their patients are easily distracted. Once a patient is distracted, it is very difficult for that patient to regain attention. This leads to very inefficient appointments. Automating the process of recording information would result in less time spent recording information during an appointment, therefore reducing distractions and leading to much more efficient appointments.
 ## System Design 
